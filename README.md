@@ -14,3 +14,6 @@ hng.tech
 
 Clone site: 
 https://anita9771.github.io/hng-clone/
+
+Design link:
+https://www.figma.com/file/W0NHeUvcD3WFZRyeugYVoj/Zuri-Team-3-(PJT-Main)-team-library?node-id=0%3A1
