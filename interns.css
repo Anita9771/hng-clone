@@ -41,8 +41,35 @@ body{
     border-bottom: 2px solid rgb(109, 109, 245);
 }
 
+.head h2, .head h4{
+    text-align: center;
+    color: #084482;
+}
 
+.one-col, .details{
+    display: flex !important;
+    /* justify-content: space-around; */
 
+}
+
+.one-col img{
+    width: 151px;
+    height: 33px;
+    object-fit: contain;
+}
+
+.one-col p{
+    border-left: 2px solid !important;
+}
+
+.details p{
+    font-size: small;
+}
+
+.details img{
+    width: 180px;
+    height: 180px;
+}
 
 
 
