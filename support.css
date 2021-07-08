@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;400;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700&display=swap');
+
+body{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+.container-fluid p{
+    font-family: 'Lato', sans-serif !important;
+}
+
+#header{
+    /* background-image: url(images/homepage-bg.svg);
+    background-size: cover; */
+    position: relative !important;
+    min-height: 200px !important;
+    padding-top: 30px !important;
+   
+}
+
+.logo{
+    width: 180px;
+    height: 40px;
+}
+
+#header a{
+    font-size: 14px !important;
+    text-decoration: none;
+    color: black;
+}
+
+#header a:hover{
+    color:rgb(8, 68, 130);
+}
+
+#header a:active{
+    color: rgb(109, 109, 245);
+    border-bottom: 2px solid rgb(109, 109, 245);
+}
+
+.head h1{
+    text-align: left;
+    color: #084482;
+}
+
+.intro img{
+    width: 470px;
+    height: 472px;
+}
+
+.woman img{
+    width: 455px;
+    height: 333px;
+}
+
+.images-two img{
+    width: 150px;
+    height:200px;
+    object-fit: contain;
+}
+
+.circle img{
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+}
+
+.images-one img{
+    width: 120px;
+    height:200px;
+    object-fit: contain;
+}
+
+.middle h2, .mid hr, .rounded img{
+    color: #00aeff !important;
+}
+
+.mid hr{
+    border: 3px solid;
+    width: 5em;
+}
+
+.rounded{
+    width: 300px;
+}
+
+.center h2{
+    font-size: 40px;
+}
+
+.position-relative .img img{
+    position: absolute;
+    left: -100px;
+}
+
+.past img{
+    width: 25px;
+    height: 25px;
+}
+
+.bold h2{
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bottom img{
+    width: 213px;
+    height: 43px;
+}
+
+.space-between{
+    background-color: #788996;
+}
+
+.space-between img{
+    width: 24px;
+    height: 24px;
+}
+
+button{
+    background-color:#00aeff !important;
+    border: none !important;
+}
