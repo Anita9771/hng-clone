@@ -71,6 +71,11 @@ body{
     height: 180px;
 }
 
+.col-two{
+    border-left: 2px solid rgb(204, 204, 204) !important;
+    
+}
+
 
 
 
