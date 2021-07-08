@@ -8,7 +8,7 @@ body{
     overflow-x: hidden;
 }
 
-.container p{
+.container-fluid p{
     font-family: 'Lato', sans-serif !important;
 }
 
@@ -197,4 +197,5 @@ h4{
 
 button{
     background-color:#00aeff !important;
+    border: none !important;
 }
