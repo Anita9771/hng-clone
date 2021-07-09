@@ -84,6 +84,10 @@ span{
     color:rgb(8, 68, 130);
 }
 
+span:hover{
+    cursor: pointer;
+}
+
 
 
 
